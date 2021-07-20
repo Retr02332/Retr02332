@@ -33,6 +33,20 @@ As I said, I have been very much into web development and web security. That is 
 
 **Web security** is something that also fascinates me, and I have set myself the challenge of getting certified with **Pentesterlab** and **PortSwigger**, so that next year I can start my way as a **Bug Hunter**.
 
+## Statistics
+
+[![Retr02332's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Retr02332&show_icons=true&hide_title=true&theme=dark)](https://github.com/Retr02332)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr02332&layout=compact&theme=dark)](https://github.com/Retr02332)
+
+## Contact me
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Retr02332?color=1DA1F0&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Retr02332)
+
+[![Telegram Follow](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K3rn3lp44n1c)
+
+[![Gmail Follow](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:retr02332bughunter@gmail.com)
+
 ## TL;DR
 
 Little by little, I will be updating this post to add new skills as well as projects that I will be posting on Github.
