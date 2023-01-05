@@ -1,23 +1,31 @@
-
-
 ## Carlos Andrés Bello (Retr0)
 
 ## A little about me
-Hi, I am **Carlos Bello**, better known in the tech industry as **Retr0**.
-I am **19 years old** and I started in this wonderful world when I was **16 years old**.
+Hi, I'm **Carlos Bello**, better known in the tech industry as **Retr0**.
+I'm 20 years old and I started in this wonderful world when I was 16 years old.
 
-At 16 I started programming in Python3, then over time I started to learn more about networking, command line, and a little bit about operating systems.
+At 16 I started programming in Python3, then over time I started learning more about networking, command line and a bit about operating systems.
 
-A few years later, I got interested in ethical hacking. I thought it was cool how I could take technology to another level, giving it a particular use to accomplish things that were never raised in business logic.
+A few years later, I got interested in ethical hacking. I thought it was cool how I could take technology to another level, giving it a particular
+use to accomplish things that never came up in business logic.
 
-I started like everyone else, in the infrastructure part, but it was not until 6 months later that I realized that what I liked the most was hacking web applications. From that moment (18 years old), I started my studies in this area.
+I started like everyone else, in the infrastructure part, but it wasn't until 6 months later when I realized that what I liked the most was hacking
+web applications. From that moment (18 years old), I started my studies in this area.
 
-In my eagerness to better understand the web applications I was hacking, I started in parallel my training in web development. Today, I support these two areas studying, practicing, and continually updating myself in them.
+In my eagerness to better understand the web applications that I hacked, I started in parallel my training in web development.  It is beautiful to
+learn how to build web applications to think and see more clearly where there may be bugs, where a programmer may have made a mistake and how we could
+leverage that in a web security audit.
 
-It is beautiful to learn how to build web applications to think and see more clearly where there may be bugs, where a programmer may have made a mistake and how we could leverage that in a web security audit.
+In 2021 and 2022 I was a bug hunter at Hackerone. Here I reported high impact vulnerabilities to companies like Yahoo!, Google, KAYAK, NASA,
+Cornershop by Uber, AT&T, Logitech, among others.
+
+I am currently a security researcher at Fluid Attacks. I am a security tester for both web apps, android mobile apps and API'S. In my work I have found
+multiple CVE's which you can find here:
+
+* https://fluidattacks.com/advisories/
 
 ## My skills
-Currently, I am continually educating myself on topics related to **web development** and **web hacking**. 
+Currently, I am continuously training myself in topics related to hacking **web applications**, **android** and **API's**.
 
 I continually use technologies like **Python3** and **node.js** to build tools that allow me to automate my daily activities to be much more productive.
 
@@ -43,9 +51,7 @@ I like to spend quality time looking at the code of my applications for security
 
 ## My goals
 
-As I said, I have been very much into web development and web security. That is why I set out for this year to deploy web applications to demonstrate my knowledge acquired in web development (I am currently working on one project. Soon I will have it published on Github).
-
-**Web security** is something that also fascinates me, and I have set myself the challenge of getting certified with **Pentesterlab** and **PortSwigger**, so that next year I can start my way as a **Bug Hunter**.
+My purpose for this year is to get certified in hacking web, android and API's applications.
 
 ## Statistics
 
@@ -60,11 +66,3 @@ As I said, I have been very much into web development and web security. That is 
 [![Telegram Follow](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K3rn3lp44n1c)
 
 [![Gmail Follow](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:retr02332bughunter@gmail.com)
-
-## TL;DR
-
-Little by little, I will be updating this post to add new skills as well as projects that I will be posting on Github.
-
-I will also soon upload here my profiles on bug bounty platforms, so you can read some of my reports.
-
-Greetings, **Retr0**
